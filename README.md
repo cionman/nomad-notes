@@ -1,0 +1,1 @@
+#NOMAD NOTES - 따라하기
